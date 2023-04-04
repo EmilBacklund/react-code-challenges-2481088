@@ -1,12 +1,12 @@
-import './App.css'
-import ColorRenderer from './01-color-renderer/ColorRenderer'
+import './App.css';
+import ColorRenderer from './01-color-renderer/ColorRenderer';
 
-function App () {
+function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <ColorRenderer />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
